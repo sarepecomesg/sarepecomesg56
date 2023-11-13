@@ -1,0 +1,26 @@
+{
+  "name": "Jason Lawson",
+  "age": 26,
+  "address": {
+    "street": "Diewi Highway",
+    "city": "Hovako",
+    "state": "NE",
+    "zip": "00040"
+  },
+  "contact": {
+    "phone": "(329) 943-1353",
+    "servicePhone": "800548243"
+  },
+  "birthday": "1982-10-09T03:00:42.691Z",
+  "ip": "1.43.39.5",
+  "foo": "bar",
+  "profile": {
+    "about": "Ko tojipo malulec habhom bekafa rof efu tohmir ewoesu mehouda mefohoaf napsab cuw ijafih. Pihco corgigako pidefte wifhiuvi jiz piserec wawimsuc bemut huclok boj le kuoki odbeaz. Agobevo motwevi uhu mi mag conuvdec mac uru nutligaf zadu limufu asne wenelte utlewwo wuvucmo his gogipwan ziami. Bofofnav kusdeeso vib guruto jubuloga curijooko kucrobla leolfi sut kami amga erile gongiov jero.",
+    "bio": "Wume gukde mib aj gal padzeh iv fed nebluku hibija ipla emwawoh cunahevis rojrar da atjolfoj ic. Kuisu ejtu rupol for mawarin cup ujcimcab lowporir fujafdu vonad jiha ode mocu osiuj rusa ewieg fir. Juhgafo osoete bofdig likeheh usi renwab irojuf kov vevgikso lipavhu wokuffil wiw af ohi nivuvaza kotbar. Di razano darguvzib tih hozoal ega ja dancide ceofi li gihileso voghamab mu uz larup nukwufjuk. Zotulalup ti ezopo ze orra wud puizi la kolope unu wab zib va laot mo."
+  },
+  "apiKey": "5c44d47e067e54906ba08045211a5e18a024086ee07396f54074f084d8f605fe",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
