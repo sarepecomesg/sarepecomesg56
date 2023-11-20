@@ -1,0 +1,26 @@
+{
+  "name": "Susan Brady",
+  "age": 31,
+  "address": {
+    "street": "Giap Plaza",
+    "city": "Bopahgec",
+    "state": "NV",
+    "zip": "99080"
+  },
+  "contact": {
+    "phone": "(974) 993-6587",
+    "servicePhone": "800776799"
+  },
+  "birthday": "1993-11-28T12:48:23.089Z",
+  "ip": "75.20.29.239",
+  "foo": "bar",
+  "profile": {
+    "about": "Tojuf tulcersit bolo jibargo unicubboj bul omdip er kizi lig evku nu fatgi. Jo epferit wirged fu hofe cone giddeofi tu hoemica kurvo zeprapijo ve mibuk calpe sorihjef olaci. Omowi la wergadjec mitciv ez eb to japilu masvo hinne zocub zus. Dok jojmarrur opowewav hikpa gihog fiivu ro je merivi idakar wu so.",
+    "bio": "Reswune guaszob li lin aztuwugu sunceh vu vumon sihhe kufno lewaf imeucu. Zo dowamo raniwgo dovi fobalo ek onvo vo ra wejhalno bihekfow zumusdo teaceca. Duzcifleg hanoc idhab jofgi pepuih dufzabov az cutgef fego jorev kiwooj meftidri jazhijbe. Etinu hefjevuw led oco bejudolo sasifal ic li tuhikib likefin mazo nogli maf revub munman bo kese."
+  },
+  "apiKey": "5f63c76f91345211038bd67cad3a6460751e0cb20cf0a8a9654903fb82bdd214",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
