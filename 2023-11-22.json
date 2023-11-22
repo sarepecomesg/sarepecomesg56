@@ -1,0 +1,26 @@
+{
+  "name": "Glen McDonald",
+  "age": 56,
+  "address": {
+    "street": "Zurcu Center",
+    "city": "Iseadza",
+    "state": "MA",
+    "zip": "18400"
+  },
+  "contact": {
+    "phone": "(252) 757-7679",
+    "servicePhone": "800749892"
+  },
+  "birthday": "1962-12-27T03:56:41.057Z",
+  "ip": "201.201.130.240",
+  "foo": "bar",
+  "profile": {
+    "about": "Ive gijet wapsejebo muhivba tiab dun dopidova ito ufuki jaiki opelurjid miw efdat ti. Nis wopiwah su sacujez juvwahfas ceg gi faz vik uvihoce wozdek el buk eba. Av cegruwre hezdehzer it taki odwutoz gitozod le wohaj op tekuas usomi.",
+    "bio": "Zup zoton jusouju guloz haro vu judije roitvo gulheud setfa davraf noggoz ham haf. Cole doj su to itkulgol uffulfuk kej jurdebnu tehmihun uda dobeski re gaemadi ka higsiuko wu. Vuroc izofo imasacsa no adu zupi loahouva hatdi kuv orvike kozgoti ac nusewse mi lodtaf bo jotaj. Wi tuhgi pehca hopre wauwtih fot la futtot rasot pafeed gik kevali."
+  },
+  "apiKey": "e6a3f9488541860b6d51b708b1eacea602e167bbd96eebd10275094e248357d3",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
