@@ -1,0 +1,26 @@
+{
+  "name": "Bryan Lamb",
+  "age": 47,
+  "address": {
+    "street": "Niago Road",
+    "city": "Bublona",
+    "state": "IN",
+    "zip": "52144"
+  },
+  "contact": {
+    "phone": "(228) 329-1499",
+    "servicePhone": "800787346"
+  },
+  "birthday": "1990-04-04T01:23:15.498Z",
+  "ip": "179.107.99.31",
+  "foo": "bar",
+  "profile": {
+    "about": "Jugzor vopju pofafmar jeggajufu mog mib kadu cor hi tucziide muziclig lipma luv tutejic. Cur libjanja jileebi rifojpa hecu apecbez rusef ewu zo ovjifuz poocana jimozfek socop zekhiddap. Homoki et agosepu ku iszu farbaw taon hajeboj wujlog nad kobjiut hofohu wajuinu. Omuoga evipo towadinaz arbevo pipojpe acsitor kefba go mulu jow ocuesigo godrobib lotegoki bi hofim otijo redkokub. Omotah hemifi ig cudpahju la sowo worow kaw saarjo vohatop fupeta loguli hu ezarozot gelwacap juw. Bahhaov wob goc sub fonsef daevijan ur ibnut pebus odwuvac fipnazi nenoshir kodivko ime vemtuwo naroble solo.",
+    "bio": "Rudacjim bivko fezehsi sefci zapos oj evo gucvon buloz zacsef ac gimne wirziwub wudini elaoda honvicof. Ubaligem ovegicges luguvli rubduzi vumabjit zun livreri cu sasgojef befho kur movwo. Ju cav vagabaj nojepwi aksu uvijed nibowla zop ze fiiji cieki dub kuzesjoh fib zel ozinme ula. Zoten tof li za ruehpir ke fehekifec eso zug ujci na ehawo lumeddiz ipi vuwuzo. Isdiar ezeb lar ke sel jeagair tiepku okuzil wenguwo he tamvuasa fi fatzege movvomu te laf sew fegsowve. Ji vibapigo vupitop galna baj manren vo pocudapi no ajla piw dum zawfawalu gukona. Zatmu soddeg du ultupaw fe sam segivuj gi musdenol duluftet buku ulu doli kewel heluf dalut."
+  },
+  "apiKey": "b4fd7ccd1a5f569b40392ce05be937fdad6162c91eea34da11ade59f726a4d7b",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
