@@ -1,0 +1,26 @@
+{
+  "name": "Caleb Anderson",
+  "age": 33,
+  "address": {
+    "street": "Wisir Boulevard",
+    "city": "Logsenuk",
+    "state": "FL",
+    "zip": "61459"
+  },
+  "contact": {
+    "phone": "(609) 787-4518",
+    "servicePhone": "800523376"
+  },
+  "birthday": "1995-02-26T02:55:31.998Z",
+  "ip": "195.82.44.206",
+  "foo": "bar",
+  "profile": {
+    "about": "Zurkusim acwoma piiphe ir ciocbi jo heop ulpaki iwazi koiru owwewkop hizokoz eszawek additu ruba. Zazovko buuguvep buvmemja gogitena latva kem uzi somej po culesi azununem ma duriw. Cuv soijauk aho besoraz kijnaka sadje pilozvun wac firmezso oni ufri te.",
+    "bio": "Ca dirmi pu cajam ek sasfovac nifugoh sidi kez zuup zizet zac deplakpam. Werwure fuk umehe bupgocbud gaiju kokigzo ike iki fuworpe dagkosoz ciij wip lu mef. Luw abi itabe wedo dijfuse viemfe coof sec li lotlat la igisekug vi mur ofbepa nonedve pi."
+  },
+  "apiKey": "6465a1ce9d8ee377501af78002af0c23c542223e0d82acb582ae4bfe109ae97f",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
