@@ -1,0 +1,26 @@
+{
+  "name": "Bobby Parker",
+  "age": 60,
+  "address": {
+    "street": "Ajeop Square",
+    "city": "Irouhdin",
+    "state": "NY",
+    "zip": "28212"
+  },
+  "contact": {
+    "phone": "(210) 612-1608",
+    "servicePhone": "800851974"
+  },
+  "birthday": "1959-09-18T03:33:19.472Z",
+  "ip": "203.17.155.214",
+  "foo": "bar",
+  "profile": {
+    "about": "Zevatug nobkiiv ma hibiuwi do wu sa foz tu gi sencoda fuete fohsop zatavi me vocbu lowleow. Awi ir surrab ocabu rapufpun ocubusciz tuajlid am mibjicuti wografeha se butazgu si zewvohkug pilaj. Va gazawupa ufe kuvek vaj hohjaoja me hulsa ekoelo rutso tef jezmakpi miohhud afo toton fa. Lifejec amojir netivnip ebonoca ithe ov jaz demub leiki nidiwgow ijjomow zolofim zifkoni upaubpib.",
+    "bio": "Zimsuhib gaduhfaw abgutir be hatagpi iccazi mivezo lu saf cirva aseas urejise canecce. Lezawofe sadu rejhirpog rewgavug ho vejo ug okso cabfuri kijpas rarif das. Afoki cezunewe dewmotgu rudelfe abedit wisfal pucim ramti covu jakotu usaadasi gufma reduljok nozfinani."
+  },
+  "apiKey": "e10f6489542ea25dc9fd84477838b7d48802f9b56bdaa4222bd0e81d1944f1ad",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
