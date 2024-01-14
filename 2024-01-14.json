@@ -1,0 +1,26 @@
+{
+  "name": "Betty Norris",
+  "age": 50,
+  "address": {
+    "street": "Wuru Center",
+    "city": "Hikitvi",
+    "state": "WI",
+    "zip": "43163"
+  },
+  "contact": {
+    "phone": "(732) 455-9768",
+    "servicePhone": "800528396"
+  },
+  "birthday": "1972-11-22T18:09:32.229Z",
+  "ip": "181.113.77.159",
+  "foo": "bar",
+  "profile": {
+    "about": "Heb ridofi gonulku sijama agiito ahlefe aci wacew fumdusik jam pe tospejroz sep natpaco. Pa tugopmum pikbom je mizceb desme ur if lu ma dernubhi og iz binnoh wiw elfi. Pojiv wiirpo pe laofabu opoujufe zi zucduleb ide jifotug hejwajudo apco hancunu.",
+    "bio": "Wuznu dug cokwap boam le huimase ekge fon gujfigo zokwika ga ahehdul waev orugapad jaf pimi ibibaoz. Fiedarer sunevre juvopup ni idwac uwunegaj te igpino jamipa gu wud lafobu do horug. Duhuraf neciw joif mo zihujfaj isvehi muiseav fizcu en siv bedfo pal oz rap."
+  },
+  "apiKey": "eae97dccde1d01a31df21d6804862d474360fe77e808b0418ae2f2c8f6e3c548",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
