@@ -1,0 +1,26 @@
+{
+  "name": "Margaret Gibson",
+  "age": 50,
+  "address": {
+    "street": "Tuit Park",
+    "city": "Neupudu",
+    "state": "WY",
+    "zip": "44771"
+  },
+  "contact": {
+    "phone": "(377) 491-4914",
+    "servicePhone": "800589847"
+  },
+  "birthday": "1984-08-08T08:26:09.100Z",
+  "ip": "108.21.216.197",
+  "foo": "bar",
+  "profile": {
+    "about": "Osauznep dilis ilbip ri kacimgol owniwme ji nutuggu ijuac difecas pep el lelele ofeaneuw at. Inne ec jitu ac isovzus uherul wuci wug wiebo biruz wil big nen. Cup ahiesu kaiwug mozme wu fib ogoleko mowuhfu bore nacetmec to ukabajwik aveboode esvawgil go bo liweb lu.",
+    "bio": "Fefnamu niri fe be fijboz cucuzob ijo tin husosbi pokmowu tomum fodomi vujdej fej usguf. Rul nosgir masbaka vop gev vuocape osforo if bucef re jire va. Far hivcirje zin wumit urekouf ebimozdos kowaku belisi kof osoufoli cow jogiw hapcimwet adooduv ro."
+  },
+  "apiKey": "6ea4244b46d3e768b674d49e1a19ff2222778cb03f0fca246f0d0373a196a556",
+  "currency": {
+    "code": "MRO",
+    "name": "Mauritania Ouguiya"
+  }
+}
