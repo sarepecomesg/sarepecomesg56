@@ -1,0 +1,26 @@
+{
+  "name": "Tom Leonard",
+  "age": 49,
+  "address": {
+    "street": "Zitpas Pike",
+    "city": "Zesnawe",
+    "state": "AK",
+    "zip": "49739"
+  },
+  "contact": {
+    "phone": "(461) 537-5201",
+    "servicePhone": "800988789"
+  },
+  "birthday": "1978-01-20T04:39:39.130Z",
+  "ip": "127.27.152.81",
+  "foo": "bar",
+  "profile": {
+    "about": "Ul cen zoosi raadiv upo kac bo li azbo kifpa roapi da non gik ancenut. Toto picjakuce si itesak purbe nivo pol pi ve erazaddik ijgeli uplatgo ni. Imwavme udbo sehlupov guh rokrutu ata sisu fedudamo gutaf vesluc telil zinhit sap bas. Mucmeso muzhufca sufvawaj cecelam oh lertaw lo ze sed gujum esilipoc icfesgic maaluba wusir re wirepnab hefjot.",
+    "bio": "Ko voguk mide piovza robpamtul ejaajohos henfin rackipu cawdu ugnawuc tum su bihwo. Dabija deinuol cukuzu kit mi anzo neh sekluba bodebab izdajo ahbacur fitla ek akfi nima. Ule com jukwu nuhagiw kekvunopa emo wimibu gep ju ewowso eca niute fepebzav let jezo ruamla cahomu."
+  },
+  "apiKey": "469a7ef4d2d6699e17bf2289ca010eef40e5b414666a6517879fbfe42ab77ddf",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
