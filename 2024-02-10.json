@@ -1,0 +1,26 @@
+{
+  "name": "Ida Perkins",
+  "age": 41,
+  "address": {
+    "street": "Todduj Junction",
+    "city": "Cidemwev",
+    "state": "IN",
+    "zip": "18243"
+  },
+  "contact": {
+    "phone": "(884) 838-2229",
+    "servicePhone": "800573938"
+  },
+  "birthday": "1994-12-17T10:19:49.154Z",
+  "ip": "224.238.5.47",
+  "foo": "bar",
+  "profile": {
+    "about": "Korle ofu togi eguzu uktup otaefomil pe ciic lakimge si cufwan viswees izu zuehabe adi koawe wokumo. Ciz me dalod nuj ep piezu heogivat weh bamnu jecbu hoitle feew jupetu wes sit. Zak malso sehezasa nopal odu wurof en zawpovtup wepaz rooma ricud feraari kusognaf og.",
+    "bio": "Pok pimiava lowu weze ce suc en ibica liwef ki ule winro hu fa ta puvazit ubriko mew. Eco gav fuob un we webun uw fenso ide weriiba hewebwog gerasazi. Molubaf uviurjic kumi gocezowi fim vucnoale kajasok wecligfep nonazaz pohuv jowo lucral. Uzumum diwun ninmil mof cuwe uvpid za epa rede kabezaka jolcoho mokdo kuge gogul nohhismin guwozim kelijun guwle."
+  },
+  "apiKey": "b12c3cd4d99861333d0cd80f2aedded46616e00bf44f00fa946f88bca84334fc",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
