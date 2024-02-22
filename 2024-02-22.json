@@ -1,0 +1,26 @@
+{
+  "name": "Daniel Gilbert",
+  "age": 58,
+  "address": {
+    "street": "Dimkot Heights",
+    "city": "Peapno",
+    "state": "NC",
+    "zip": "48841"
+  },
+  "contact": {
+    "phone": "(852) 692-7769",
+    "servicePhone": "800772164"
+  },
+  "birthday": "1974-09-04T15:14:36.202Z",
+  "ip": "195.80.65.24",
+  "foo": "bar",
+  "profile": {
+    "about": "Defefuzez lowavdu tif ga octogat upusez he teel ij cibneoku to deawvo. Fulegjon fim wutkuvoj irijika raw seg je rec nes azi wopomira rov kitzuvew ba. Obumig zuhutuj abolabmi jiaw nawze jaf po vimit jihvefen sataf dapas luretdin usanuudi iritiebu zaw huhajoteb togonoma.",
+    "bio": "Gag ufegisulu cot hado bit ukaami fec cenimu anese vawa oko kiphowe. Irbuwu boc kud etip uk togre dadvi albeten gu ta bolaeso of kag vu. Cevikleg ene rapmul id jamouhu gu er di jum dig akrut asu sadwoj palagve agu nihpuzza vufdaj."
+  },
+  "apiKey": "23df7f1e26ff3da5632c4926f0154c4964551a46e7ce746d62114602906f75c7",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
