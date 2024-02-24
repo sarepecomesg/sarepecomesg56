@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Hopkins",
+  "age": 51,
+  "address": {
+    "street": "Sutkat Junction",
+    "city": "Sipaan",
+    "state": "VT",
+    "zip": "95005"
+  },
+  "contact": {
+    "phone": "(904) 206-1227",
+    "servicePhone": "800449123"
+  },
+  "birthday": "1990-03-29T08:54:31.454Z",
+  "ip": "187.233.227.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Hihse narwo naocage opjehih kewguckin ofo nol hutfebura zoj oklavin camnup cevebwi hi rosi go. Dufzi rog lo jokec kof etoapade jihi se cotaho taz fu kura pic jurawit. Nionute tocvegmi maakwiv naurate fuswuve jorbate caha fi jiune nipodu fumi zagpuhit obodo sura ide uza bo.",
+    "bio": "Ekihen neumcu tebrer pit nomifow kagsuz utuelemu binvucji maknam gozuruw eledeume kegjuik lodeobo suwhiflu diclifef. Hulino bem udit ogo bu hu ifulu bora wi tec fepumo sap em. Idu hunvubzus meibi nuemuce bagbode rob tuniruvi dav uza pif leopa nuwu dus uvuof ve gi. Orepis jujafva siffen akame bokzeclo ivejamad bag eva senom el wuunwe kevwuvode morda ewumaepu."
+  },
+  "apiKey": "55c6744d08d3fa311784d343032f51085d54fdab6a77381479298786ce0cce81",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
