@@ -1,0 +1,26 @@
+{
+  "name": "Jane Simpson",
+  "age": 65,
+  "address": {
+    "street": "Nero Mill",
+    "city": "Hicojfe",
+    "state": "NY",
+    "zip": "70297"
+  },
+  "contact": {
+    "phone": "(232) 312-2465",
+    "servicePhone": "800756457"
+  },
+  "birthday": "1990-11-02T05:32:32.732Z",
+  "ip": "91.123.72.37",
+  "foo": "bar",
+  "profile": {
+    "about": "Pilahom bumgiv zeb reosupo nojuzueb lil huv dedip diora jugooh cewor wu itega te odezonu kit. Basgoh hewdichi popuj ige ame fazvuv tiegolap rokcop dofpaz ecafole kukbutsu jiwet ra tenli wamfetfo uf zun. Ib ado gidizar onawgir ibo pasol ersil ule nalactif kuj nu ameudi meirneb pow foj. Nedwolgu rithecap gof sezo fi vap ukji wonid va kizeli docaguw pevkicpo da bosowej zogip. Nu nak bebup linopu pi kadkasciz riv zi hanfolfa ijohasod uku mop fuzutwoc ewodihpi fop eko iduge tennole. Jiifovec ab god ufiawetos voergew nu cida dug abujehtaf ma lermus wi pivuzafu.",
+    "bio": "Pauviihi honafda sowa heej sigsalboj vohhefe ilna dez uro oheedva upkos neko hezic vethozer. Umaki apduvfo himakoh cah gizna cefeote jajvewcom vijo puhcefucu gecpi cihju cicic tuhafsi urasfur. Ponfak goc gajec uzewaac pejvon nepbitkaf boju nu wagfokro recle okiso inopipe um tuvec. Pi mo to ali bidek tupegla nepomlog be pun fusmo siz iv aka ita wiel osfocjab masnal. Ufpeek isgop cuzpuf luwajzum on elhioko berorol luvnovji wusvim sipak ohe bitsaimo. Enbohoh bef velacwe toezoki jen zu vo gawceri bescod lop ov kujiis ven lorwate jaupo kadem gof mibacsi."
+  },
+  "apiKey": "fe72d05c3f1b147666fa3622c5fb9383381adf7641359b6f79527c51b166ee43",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
