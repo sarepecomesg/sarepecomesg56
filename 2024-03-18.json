@@ -1,0 +1,26 @@
+{
+  "name": "Steven Lane",
+  "age": 24,
+  "address": {
+    "street": "Waiv View",
+    "city": "Cesabu",
+    "state": "KY",
+    "zip": "36158"
+  },
+  "contact": {
+    "phone": "(559) 633-8809",
+    "servicePhone": "800634168"
+  },
+  "birthday": "1986-05-18T10:00:11.342Z",
+  "ip": "222.174.79.218",
+  "foo": "bar",
+  "profile": {
+    "about": "Madir waemo pakwu ucumi davsiv go ve godzig remus hi rajaz rovube ugvuwe. Puzlur weekemiw aduse ko mo eniwo betawti pem suj tohzusi uz murogfi. Sot uheco obiw mataz cobsuves har kew merho sig si zofo igsetu poipe hocvu umnu ban.",
+    "bio": "Fu petva zu akuko wak podcuj jilriwise naamtu iwa mawuc ufsesric jopabij wukub vu onro aroutere omwoili vewevuoti. Siw woehomu hatrazcu hor magbekru cedubkum ut ufcolat mol kartugpo winuope zu dag. Jehoda naentih wehug dot ub ekudozit kenfukfu oh lusitiuf ohhigas ohe hi nus ta furisne du rep."
+  },
+  "apiKey": "21db6ef291f2a2baa83a9f249da29cbf1d7b750b05c1593f005826460fed70d1",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
