@@ -1,0 +1,26 @@
+{
+  "name": "Winnie Fields",
+  "age": 34,
+  "address": {
+    "street": "Ante Drive",
+    "city": "Pucjapcep",
+    "state": "NH",
+    "zip": "99174"
+  },
+  "contact": {
+    "phone": "(638) 814-9209",
+    "servicePhone": "800687641"
+  },
+  "birthday": "1998-05-04T12:54:14.345Z",
+  "ip": "174.21.43.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Sa riubtor ebohilhet ra ju jetuftu esunize iltok kuggekzo bihla mifaadu du oti jowow. Zosigsaj so dagukku mewhubik sojvoj uh azbugu pes silge pahuv rohiw gobo cicam woowi. Rej disawij vikzenno zutodho uphuhfe howmarbew tizaznuj kasa kolatoco bir sipha gag. Bofeam taurfi gic lu nuben ri viwuken on vajoel vim top hifcobuk guzuc.",
+    "bio": "Vuh gakod olohifpa zojluvge co fo asimo piccem his alobovri jasli it aha sivvip vap tudsat ge vuodme. Usup ladimba tu ori digoktiz evger rap nah nolupte fulgok eduloccog bar. Fusag bobosu fur ogufi ute ra ewuwizmic jad tuuboro udakiv peto otolic."
+  },
+  "apiKey": "680c6c3aa76b77b5ec22dad9f0043c8ab5ecef4b4bddd6dab4640425534acfa1",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
