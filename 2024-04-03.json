@@ -1,0 +1,26 @@
+{
+  "name": "Jerry Hodges",
+  "age": 48,
+  "address": {
+    "street": "Ivgi Loop",
+    "city": "Owuneroj",
+    "state": "MT",
+    "zip": "84047"
+  },
+  "contact": {
+    "phone": "(730) 988-4664",
+    "servicePhone": "800931265"
+  },
+  "birthday": "1997-09-21T09:29:06.535Z",
+  "ip": "201.62.166.33",
+  "foo": "bar",
+  "profile": {
+    "about": "Cekisi nov bol huut sanwuh owe si wa hos fo cejaw humabdi tis esafep. Ojdow kibarvof ujaniw oja rehegsa efeow nag uji tis jonbug sehgam revivok bovellov di jimpage. Tekamje rifizuga vazuva ditirbub eci duot owo amciho cepkoc taghimfa ef me baazuhi niwag. Upeno wewzerzoc lan noktav del awezi ekrap omrefo mif aj male nejva posogwi cowot. Nudaok al kipujo hunimol obami hem bag vauto vaz sotnac wug renne il akoohof abmaut iz roerel.",
+    "bio": "Hi bid arfe fi tip muncohi eho ri erzokmiw mik paw osadawec hupjawo uh uzi lo. Kebnukpu pas fifbovel ispahda wogpup dihakuc vugzovso fab bekje nuzta dahwuv haccufih fuk jazu jen ajele cefrob tehaaw. Cek zep civupso be tocfup jerbo tibkucuf duototoj wiela eci soboge ju. Nuta ahegi dad voffij kejakooce pielo ki uwieku ecehit ko ebfe gos tas firu. Ki voj doka ves fozuzac nozemnu far zad ve ejwo an anaba ras tiniz ul."
+  },
+  "apiKey": "cd73741b819e75a01cd738864719f334cbe57e05feff4a36f47be3f2eb8beb60",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
